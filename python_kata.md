@@ -5,6 +5,10 @@
 
 姓名： 刘阳阳
 
+Github地址：<https://github.com/last-xuan-official/python_course>
+
+CodeWars地址：<https://www.codewars.com/users/last-xuan-official>
+
 ## 第一部分 Python变量、简单数据类型和列表简介
 
 * 练习2.3

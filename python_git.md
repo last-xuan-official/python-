@@ -4,6 +4,10 @@
 学号： 20210302103
 
 姓名： 刘阳阳
+
+Github地址：<https://github.com/last-xuan-official/python_course>
+
+CodeWars地址：<https://www.codewars.com/users/last-xuan-official>
 ## 实验过程与结果
 [练习网址](https://learngitbranching.js.org/?locale=zh_CN)
 **1.1 git commit**
