@@ -5,7 +5,7 @@
 
 姓名： 刘阳阳
 
-Github地址：<https://github.com/last-xuan-official/python_course>
+Github地址：<https://github.com/last-xuan-official/python->
 
 CodeWars地址：<https://www.codewars.com/users/last-xuan-official>
 
